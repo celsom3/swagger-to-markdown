@@ -1,0 +1,29 @@
+{
+  "name": "swagger-to-markdown",
+  "version": "0.0.1",
+  "description": "Converts swagger to markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallwave/swagger-to-markdown.git"
+  },
+  "keywords": [
+    "swagger",
+    "markdown",
+    "api",
+    "json",
+    "yaml"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tallwave/swagger-to-markdown/issues"
+  },
+  "homepage": "https://github.com/tallwave/swagger-to-markdown#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
